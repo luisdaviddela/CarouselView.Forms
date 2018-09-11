@@ -11,7 +11,7 @@ namespace CarouselView.Forms
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MainViewCSharp();
         }
 
         protected override void OnStart()
